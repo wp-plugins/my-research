@@ -1,5 +1,5 @@
 ===  My Research ===
-Contributors: GraphicEdit
+Contributors: graphicedit
 Donate link: http://graphicedit.com
 Tags: library, Research, documents, Research library
 Requires at least: 3.5.1
