@@ -4,7 +4,7 @@
   Plugin Name:  My Research
   Plugin URI: http://graphicedit.com
   Description:  allows people to have a Research library for their website
-  Version: 1.0.0
+  Version: 1.0.1
   Author: graphicedit
   Author URI: http://graphicedit.com
   License: GPLv2 or later
