@@ -3,7 +3,7 @@ Contributors: graphicedit
 Donate link: http://graphicedit.com
 Tags: library, Research, documents, Research library
 Requires at least: 4.2.2
-Tested up to: 4.2.2
+Tested up to: 4.3 
 Stable tag: 1.0.1
 License: GPLv2
 
